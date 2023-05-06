@@ -1,0 +1,10 @@
+@media screen and (max-width: 768px) {
+    .place__title-wordspacing {
+        word-spacing: 300px;
+   }
+}
+@media screen and (max-width: 320px) {
+    .place__title-wordspacing {
+        word-spacing: 0;
+   }
+}
