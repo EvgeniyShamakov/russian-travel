@@ -3,7 +3,7 @@
         word-spacing: 300px;
    }
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 350px) {
     .place__title-wordspacing {
         word-spacing: 0;
    }
