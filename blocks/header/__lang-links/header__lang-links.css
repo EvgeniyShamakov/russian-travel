@@ -1,12 +1,9 @@
 .header__lang-links {
   display: flex;
   justify-content: end;
-  gap: 18px;
+  column-gap: 18px;
   list-style: none;
+  margin: 0;
+  padding: 0;
   margin-bottom: 5px;
-}
-@media screen and (max-width: 350px) {
-  .header__lang-links {
-      margin: 14px 0 0;
- }
 }
